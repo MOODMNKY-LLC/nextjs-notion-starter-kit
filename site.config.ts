@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Simeon Bowman',
 
   // open graph metadata (optional)
-  description: 'A blog to keep you up dated on the latest at MOOD MNKY',
+  description: 'Let us help you find your center in the DOJO',
 
   // social usernames (optional)
   twitter: 'moodmnky',
