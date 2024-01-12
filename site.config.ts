@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'MOOD MNKY BLOG',
+  name: 'DOJO MNKY BLOG',
   domain: 'blog.moodmnky.com',
   author: 'Simeon Bowman',
 
