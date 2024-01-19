@@ -65,8 +65,8 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <BubbleChat
-        chatflowid="0b1a548f-7e61-4c51-a7e9-6fa6bc8850b6"
-        apiHost="https://flowise-workstation.moodmnky.com"
+        chatflowid="e53b387d-188e-4975-bbe4-561745c9d098"
+        apiHost="https://flowise-studio.moodmnky.com"
         theme={{
           button: {
             backgroundColor: "#A6A4A5",
